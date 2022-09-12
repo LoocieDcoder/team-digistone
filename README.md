@@ -1,2 +1,2 @@
 # team-digistone
-Creating a platform for women to equip them with tech and entrepreneurial skills.
+Creating a digital platform for women to equip them with tech and entrepreneurial skills to get started in and sustain Tech Careers and Entrepreneurship with relevant and on-demand tech and digital skills.
